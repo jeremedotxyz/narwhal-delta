@@ -1,0 +1,119 @@
+{
+  "harbor": {
+    "run_id": "c9ddafe93bcb5bf40db7855104f5d311190be5ee1416f640f60ed9e65bde6531",
+    "stats": {
+      "counts": {
+        "gain": 888,
+        "loss": 573,
+        "below_threshold": 4051,
+        "insufficient": 0,
+        "only_a": 120,
+        "only_b": 0,
+        "outside_roi": 0
+      },
+      "shared_cells": 5512,
+      "shared_area": 1378.0,
+      "changed_area": 365.25,
+      "gain_volume": 69.12783280198258,
+      "loss_volume": 42.14741462118737,
+      "net_thresholded_volume": 26.980418180795205,
+      "net_raw_volume": 30.417022006446224,
+      "threshold_envelope_volume": 120.63983796062544,
+      "overlap_fraction": 0.9786931818181818,
+      "median_lod": 0.08605453898956172
+    },
+    "alignment": {
+      "control_dz": 0.0,
+      "control_cells": 0,
+      "control_roughness": null
+    },
+    "mean_absolute_delta_error_m": 0.008449653448174535
+  },
+  "unchanged": {
+    "run_id": "5573538b23c9624a443d733265964decf0a2223a8fc32b8a282200dde167eb25",
+    "stats": {
+      "counts": {
+        "gain": 0,
+        "loss": 0,
+        "below_threshold": 5632,
+        "insufficient": 0,
+        "only_a": 0,
+        "only_b": 0,
+        "outside_roi": 0
+      },
+      "shared_cells": 5632,
+      "shared_area": 1408.0,
+      "changed_area": 0.0,
+      "gain_volume": 0.0,
+      "loss_volume": 0.0,
+      "net_thresholded_volume": 0.0,
+      "net_raw_volume": -0.10300783504228672,
+      "threshold_envelope_volume": 123.22046675938934,
+      "overlap_fraction": 1.0,
+      "median_lod": 0.0860244003122487
+    },
+    "alignment": {
+      "control_dz": 0.0,
+      "control_cells": 0,
+      "control_roughness": null
+    }
+  },
+  "bias": {
+    "run_id": "1011e65686a8a27d7b3a54c16c8c7225f93dc14fd7170ce10bcd2b5675a96523",
+    "stats": {
+      "counts": {
+        "gain": 5591,
+        "loss": 0,
+        "below_threshold": 41,
+        "insufficient": 0,
+        "only_a": 0,
+        "only_b": 0,
+        "outside_roi": 0
+      },
+      "shared_cells": 5632,
+      "shared_area": 1408.0,
+      "changed_area": 1397.75,
+      "gain_volume": 167.8411556757996,
+      "loss_volume": 0.0,
+      "net_thresholded_volume": 167.8411556757996,
+      "net_raw_volume": 168.85699216495925,
+      "threshold_envelope_volume": 123.22046675938934,
+      "overlap_fraction": 1.0,
+      "median_lod": 0.0860244003122487
+    },
+    "alignment": {
+      "control_dz": 0.0,
+      "control_cells": 0,
+      "control_roughness": null
+    }
+  },
+  "bias_corrected": {
+    "run_id": "4c602b072ee97c0a2f35035ed55373428011c69bef3b4f53ab757e3232ff71bb",
+    "stats": {
+      "counts": {
+        "gain": 0,
+        "loss": 0,
+        "below_threshold": 5632,
+        "insufficient": 0,
+        "only_a": 0,
+        "only_b": 0,
+        "outside_roi": 0
+      },
+      "shared_cells": 5632,
+      "shared_area": 1408.0,
+      "changed_area": 0.0,
+      "gain_volume": 0.0,
+      "loss_volume": 0.0,
+      "net_thresholded_volume": 0.0,
+      "net_raw_volume": 1.0870712094278803,
+      "threshold_envelope_volume": 123.22046675938934,
+      "overlap_fraction": 1.0,
+      "median_lod": 0.0860244003122487
+    },
+    "alignment": {
+      "control_dz": -0.11915477340591707,
+      "control_cells": 880,
+      "control_roughness": 0.010845085478018199
+    }
+  }
+}

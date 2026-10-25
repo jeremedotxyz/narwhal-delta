@@ -1,0 +1,15 @@
+{
+  "cell_size": 1.0,
+  "min_points": 3,
+  "sigma_a": 0.025,
+  "sigma_b": 0.025,
+  "sigma_alignment": 0.02,
+  "min_change": 0.08,
+  "confidence": 1.96,
+  "dx": 0.0,
+  "dy": 0.0,
+  "dz": 0.0,
+  "yaw_deg": 0.0,
+  "roi": null,
+  "control": null
+}

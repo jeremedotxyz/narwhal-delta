@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use Narwhal Delta in research, cite the software version and archive the exact source commit and analysis bundle."
+title: "Narwhal Delta: Traceable Underwater Survey Differencing"
+authors:
+  - family-names: Abernathy
+    given-names: Jereme
+version: 0.1.0
+date-released: 2026-10-25
+url: "https://github.com/jeremedotxyz/narwhal-delta"
+repository-code: "https://github.com/jeremedotxyz/narwhal-delta"
+abstract: "A local engineering reference for repeat-survey elevation differencing, conditional uncertainty thresholds, connected change regions, and reproducible evidence bundles. Validation uses synthetic survey pairs; physical hydrographic accuracy is not established."
+keywords:
+  - underwater lidar
+  - bathymetry
+  - survey differencing
+  - uncertainty
+  - reproducibility
